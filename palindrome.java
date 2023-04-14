@@ -11,7 +11,7 @@ public class Main {
 		String word = sc.nextLine();
 
 		int beginningOfWord = 0;
-		int endOfWord = input.length() - 1; //because counting starts at 0
+		int endOfWord = sc.length() - 1; //because counting starts at 0
 
 		boolean isPalindrome = true;
 
