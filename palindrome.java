@@ -3,7 +3,7 @@
 //A palindrome is a string that reads the same forward and backward.
 
 public class Main {
-	public static void (String [] args) {
+	public static void main (String [] args) {
 		Scanner sc = new Scanner (System.in);
 
 		System.out.println("Please give me a word and I will tell you if it is a palindrome: ");
